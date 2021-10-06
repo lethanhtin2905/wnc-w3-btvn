@@ -1,0 +1,19 @@
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  border-radius: 5px;
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 24px;
+  height: 75px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+  padding: 0;
+  text-align: center;
+  width: 75px;
+}
+
+.square-winner {
+  background: yellow;
+}
